@@ -41,12 +41,10 @@
     "app.js"
   ],
   "environment": {
-    "uieditorpath": "/root/src",
-    "hideHiddenFiles": true,
     "showide": true,
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "javascript"
+    "imageid": "ubuntu"
   }
 }
