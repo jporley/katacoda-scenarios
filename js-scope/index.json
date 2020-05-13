@@ -27,6 +27,14 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "src/util.js",
+          "target": "~/src/"
+        }
+      ]
     }
   },
   "files": [
@@ -39,6 +47,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "nodejs:12"
+    "imageid": "javascript"
   }
 }
