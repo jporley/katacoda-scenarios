@@ -1,0 +1,1 @@
+That's it! Hopefully you've reinforced your knowledge on how scope works in Javascript and some of its inner workings to help you in future situations.

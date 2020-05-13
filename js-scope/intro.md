@@ -1,0 +1,1 @@
+This is a brief intro to working with Javascript and understanding how each function's scope is defined, and how context and the "this" keyword is computed.
